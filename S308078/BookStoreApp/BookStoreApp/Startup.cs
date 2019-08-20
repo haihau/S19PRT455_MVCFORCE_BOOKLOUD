@@ -73,7 +73,4 @@ namespace BookStoreApp
         }
     }
 
-    public class BookStoreDB_Dev
-    {
-    }
 }
