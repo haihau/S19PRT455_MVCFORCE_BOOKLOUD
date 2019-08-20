@@ -7,5 +7,6 @@ namespace BookStoreApp.DAL
 {
     public class Book
     {
+        
     }
 }
